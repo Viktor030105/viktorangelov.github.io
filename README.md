@@ -1,3 +1,3 @@
 # viktorangelov.github.io
 
-> This is the website for VIKTOR
+> This is the website for Viktor
